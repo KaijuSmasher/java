@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Day1 {
+public class Day1Part1 {
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File("D:\\Projekte\\java\\school\\src\\input\\dayOneInput.txt");
         Scanner scanner = new Scanner(file);
